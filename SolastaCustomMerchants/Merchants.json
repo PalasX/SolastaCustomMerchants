@@ -1,0 +1,16 @@
+{
+    "Store_Merchant_Gorim_Ironsoot_Cyflen_GeneralStore": {
+        "EnchantingTool": {
+            "initialAmount": 100,
+            "maxAmount": 200,
+            "factionStatus": "Sympathy"
+        },
+        "Greatsword+1": {},
+        "Longsword+1": {},
+        "Food_Ration": {},
+        "HeavyCrossbow": {},
+        "Maul": {}
+    },
+    "Store_Merchant_Antiquarians_Halman_Summer": {},
+    "Store_Merchant_Hugo_Requer_Cyflen_Potions": {}
+}
