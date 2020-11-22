@@ -11,7 +11,7 @@ This Mod allows you to customize any vendor stock in Solasta: Crown of the Magis
 # How to Install
 
 1. Download and instal [Unity Mod Manager](https://www.nexusmods.com/site/mods/21)
-2. Add below <GameInfo /> XML tag, under <Config /> tag, to $UNITY_MOD_MANAGER_HOME\UnityModManagerConfig.xml:
+2. Add below *GameInfo* XML tag, under *Config* tag, to $UNITY_MOD_MANAGER_HOME\UnityModManagerConfig.xml:
 ```
 	<GameInfo Name="Solasta">
 		<Folder>Solasta</Folder>
