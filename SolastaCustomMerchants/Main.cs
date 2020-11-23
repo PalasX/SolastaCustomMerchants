@@ -91,12 +91,14 @@ namespace SolastaCustomMerchants
                                     Log("Attribute not found: " + aString);
                                 }
                             }
+                            merchantDefinition.StockUnitDescriptions.Add(stockUnitDescription);
                         }
                         catch
                         {
                             Log("Item not found: " + item.Key);
                             continue;
                         }
+                        
                     }
                 }
             }
