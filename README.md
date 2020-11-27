@@ -26,6 +26,24 @@ This Mod allows you to customize any vendor stock in Solasta: Crown of the Magis
 3. Execute Unity Mod Manager, Select Solasta, and Install
 4. Select Mods tab, drag and drop from releases
 
+# How to Debug
+
+1. Download and install [7zip](https://www.7-zip.org/a/7z1900-x64.exe)
+2. Download Unity Editor 2019.4.1 from [Unity Archive](https://unity3d.com/get-unity/download/archive)
+3. Open Downloads folder
+4. Right-click UnitySetup64-2019.4.1f1.exe, 7Zip -> Extract Here
+5. Open Solasta game folder
+6. Backup Solasta.exe and UnityPlayer.dll to Solasta.exe.Original and UnityPlayer.dll.original respectively
+7. Locate WindowsPlayer.exe and UnityPlayer.dll under YOUR_DOWNLOADS_FOLDER\Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_development_mono and copy them over to Solasta game folder
+8. Rename WindowsPlayer.exe to Solasta.exe
+9. Edit Solasta_Data\boot.config and add:
+```
+wait-for-managed-debugger=1
+player-connection-debug=1
+```
+
+You can now attach the Unity Debugger from Visual Studio 2019, Debug -> Attach Unity Debug
+
 # How to Customize
 
 1. Open $SOLASTA_HOME/Mods/SolastaCustomMerchants/Merchants.json on a text editor
