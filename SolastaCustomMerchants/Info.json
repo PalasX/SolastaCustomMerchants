@@ -2,8 +2,8 @@
 	"Id": "SolastaCustomMerchants",
 	"DisplayName": "SolastaCustomMerchants",
 	"Author": "Zappastuff",
-	"Version": "1.0.0",
-	"ManagerVersion": "0.22.13",
+	"Version": "1.0.1",
+	"ManagerVersion": "0.22.14",
 	"AssemblyName": "SolastaCustomMerchants.dll",
 	"EntryMethod": "SolastaCustomMerchants.Main.Load"
 }
