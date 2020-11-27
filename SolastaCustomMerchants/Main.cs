@@ -3,7 +3,6 @@ using System.Reflection;
 using UnityModManagerNet;
 using HarmonyLib;
 using System.IO;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
 namespace SolastaCustomMerchants
@@ -50,8 +49,37 @@ namespace SolastaCustomMerchants
         {
             static void Postfix()
             {
-                JObject merchants = JObject.Parse(File.ReadAllText(UnityModManager.modsPath + @"/SolastaCustomMerchants/Merchants.json"));
-                foreach(var merchant in merchants)
+                JObject config = JObject.Parse(File.ReadAllText(UnityModManager.modsPath + @"/SolastaCustomMerchants/Merchants.json"));
+
+                try
+                {
+                    JObject items = (JObject)config.GetValue("items");
+                    ParseItems(items);
+
+                }
+                catch
+                {
+                    Log("items entry not found");
+                }
+                try
+                {
+                    JObject merchants = (JObject)config.GetValue("merchants");
+                    ParseMerchants(merchants);
+
+                }
+                catch {
+                    Log("merchants entry not found");
+                }
+            }
+
+            static void ParseItems(JObject merchants)
+            {
+                Log("parse items not implemented yet");
+            }
+
+            static void ParseMerchants(JObject merchants)
+            {
+                foreach (var merchant in merchants)
                 {
                     MerchantDefinition merchantDefinition;
                     try
@@ -64,7 +92,7 @@ namespace SolastaCustomMerchants
                         Log("Merchant not found: " + merchant.Key);
                         continue;
                     }
-                    foreach(var item in (JObject)merchant.Value)
+                    foreach (var item in (JObject)merchant.Value)
                     {
                         ItemDefinition itemDefinition;
                         try
@@ -78,9 +106,11 @@ namespace SolastaCustomMerchants
                                 string aString = attribute.Value.ToString();
                                 try
                                 {
-                                    if (int.TryParse(aString, out int aNumber)) {
-                                        AccessTools.Field(stockUnitDescription.GetType(), attribute.Key).SetValue(stockUnitDescription, aNumber); 
-                                    } else
+                                    if (int.TryParse(aString, out int aNumber))
+                                    {
+                                        AccessTools.Field(stockUnitDescription.GetType(), attribute.Key).SetValue(stockUnitDescription, aNumber);
+                                    }
+                                    else
                                     {
                                         AccessTools.Field(stockUnitDescription.GetType(), attribute.Key).SetValue(stockUnitDescription, aString);
                                     }
@@ -98,7 +128,7 @@ namespace SolastaCustomMerchants
                             Log("Item not found: " + item.Key);
                             continue;
                         }
-                        
+
                     }
                 }
             }
