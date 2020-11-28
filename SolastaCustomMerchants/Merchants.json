@@ -2,18 +2,124 @@
   "items": {},
   "merchants": {
     "Store_Merchant_Gorim_Ironsoot_Cyflen_GeneralStore": {
-      "EnchantingTool": {
-        "initialAmount": 100,
-        "maxAmount": 200,
-        "factionStatus": "Sympathy"
-      },
+      "EnchantingTool": {},
       "Greatsword+1": {},
       "Longsword+1": {},
-      "Food_Ration": {},
+      "Food_Ration": {
+        "initialAmount": 100,
+        "maxAmount": 100
+      },
       "HeavyCrossbow": {},
-      "Maul": {}
+      "Maul": {},
+      "Primed Battleaxe": {},
+      "Primed Breastplate": {},
+      "Primed ChainMail": {},
+      "Primed ChainShirt": {},
+      "Primed Dagger": {},
+      "Primed Greataxe": {},
+      "Primed Greatsword": {},
+      "Primed HalfPlate": {},
+      "Primed Leather Armor": {},
+      "Primed Longbow": {},
+      "Primed Mace": {},
+      "Primed Morningstar": {},
+      "Primed Plate": {},
+      "Primed Rapier": {},
+      "Primed ScaleMail": {},
+      "Primed Scimitar": {},
+      "Primed Shortbow": {},
+      "Primed Shortsword": {},
+      "Primed_Longsword": {}
     },
-    "Store_Merchant_Antiquarians_Halman_Summer": {},
-    "Store_Merchant_Hugo_Requer_Cyflen_Potions": {}
+    "Store_Merchant_Antiquarians_Halman_Summer": {
+      "PotionOfSpeed": {
+        "factionStatus": "Sympathy"
+      },
+      "PotionOfHeroism": {
+        "factionStatus": "Sympathy"
+      },
+      "PotionOfFlying": {
+        "factionStatus": "Sympathy"
+      },
+      "PotionOfClimbing": {
+        "factionStatus": "Sympathy"
+      },
+      "Backpack_Handy_Haversack": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Longsword_Dragonblade": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Longsword_of_Acuteness": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Longsword_Frostburn": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Longsword_Stormblade": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Longsword_Warden": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_PlateOfRobustness": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_PlateOfSturdiness": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Greatsword_Doomblade": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Greatsword_Lightbringer": {
+        "factionStatus": "Sympathy"
+      },
+      "Enchanted_Greatsword_of_Acuteness": {
+        "factionStatus": "Sympathy"
+      }
+    },
+    "Store_Merchant_Hugo_Requer_Cyflen_Potions": {
+      "Food_Ration": {
+        "initialAmount": 100,
+        "maxAmount": 100
+      },
+      "CraftingManual_Enchant_BattleAxe_of_Acuteness": {},
+      "CraftingManual_Enchant_BattleAxe_of_Sharpness": {},
+      "CraftingManual_Enchant_BattleAxe_Punisher": {},
+      "CraftingManual_Enchant_Greataxe_Of_Sharpness": {},
+      "CraftingManual_Enchant_Greataxe_Stormblade": {},
+      "CraftingManual_Enchant_Longbow_Lightbringer": {},
+      "CraftingManual_Enchant_Longbow_Of_Accuracy": {},
+      "CraftingManual_Enchant_Longbow_Stormbow": {},
+      "CraftingManual_Enchant_Mace_Of_Acuteness": {},
+      "CraftingManual_Enchant_Mace_Of_Smashing": {},
+      "CraftingManual_Enchant_Morningstar_Bearclaw": {},
+      "CraftingManual_Enchant_Morningstar_Of_Power": {},
+      "CraftingManual_Enchant_Shortbow_Medusa": {},
+      "CraftingManual_Enchant_Shortbow_Of_Accuracy": {},
+      "CraftingManual_Enchant_Shortbow_Of_Sharpshooting": {},
+      "CraftingManual_Enchant_Shortsword_Lightbringer": {},
+      "CraftingManual_Enchant_Shortsword_Of_Acuteness": {},
+      "CraftingManual_Enchant_Shortsword_Of_Sharpness": {},
+      "CraftingManual_Enchant_Shortsword_Whiteburn": {},
+      "Ingredient_Enchant_Blood_Gem": {},
+      "Ingredient_Enchant_Blood_Of_Solasta": {},
+      "Ingredient_Enchant_Cloud_Diamond": {},
+      "Ingredient_Enchant_Crystal_Of_Winter": {},
+      "Ingredient_Enchant_Diamond_Of_Elai": {},
+      "Ingredient_Enchant_Doom_Gem": {},
+      "Ingredient_Enchant_Heartstone": {},
+      "Ingredient_Enchant_LifeStone": {},
+      "Ingredient_Enchant_Medusa_Coral": {},
+      "Ingredient_Enchant_MithralStone": {},
+      "Ingredient_Enchant_Oil_Of_Acuteness": {},
+      "Ingredient_Enchant_PurpleAmber": {},
+      "Ingredient_Enchant_Queen_Venom": {},
+      "Ingredient_Enchant_Shard_Of_Fire": {},
+      "Ingredient_Enchant_Shard_Of_Ice": {},
+      "Ingredient_Enchant_Slavestone": {},
+      "Ingredient_Enchant_Soul_Gem": {},
+      "Ingredient_Enchant_Stardust": {}
+    }
   }
 }

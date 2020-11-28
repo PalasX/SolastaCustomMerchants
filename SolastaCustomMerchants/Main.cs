@@ -9,7 +9,7 @@ namespace SolastaCustomMerchants
 {
     public class Main
     {
-        [System.Diagnostics.Conditional("DEBUG")]
+        // [System.Diagnostics.Conditional("DEBUG")]
         public static void Log(string msg)
         {
             if (logger != null) logger.Log(msg);
