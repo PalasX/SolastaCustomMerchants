@@ -37,7 +37,7 @@ wait-for-managed-debugger=1
 player-connection-debug=1
 ```
 2. Download and install [7zip](https://www.7-zip.org/a/7z1900-x64.exe)
-3. Download [Unity Editor 2019.4.1](https://unity3d.com/get-unity/download/archive)
+3. Download [Unity Editor 2019.4.19](https://download.unity3d.com/download_unity/ca5b14067cec/Windows64EditorInstaller/UnitySetup64-2019.4.19f1.exe)
 4. Open Downloads folder
 	* Right-click UnitySetup64-2019.4.1f1.exe, 7Zip -> Extract Here
 	* Navigate to Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_development_mono
