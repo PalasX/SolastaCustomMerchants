@@ -1,125 +1,2731 @@
 {
   "items": {},
   "merchants": {
+    "Store_Merchant_Cyflen_Priest_Arun": {
+	  "ABJURATION_EmtanHolySymbol_Relic": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ArcaneFocusOrb": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ArcaneFocusWand": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BONEKEEP_MagicRune": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CAERLEM_TirmarianHolySymbol": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ComponentPouch": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ComponentPouch_ArcaneAmulet": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ComponentPouch_Belt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ComponentPouch_Bracers": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ComponentPouch_Circlet": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HolySymbolAmulet": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HolySymbolBelt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HolySymbolCape": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HolySymbolCrown": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollAnimalFriendship": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "ScrollBane": {
+	    "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "ScrollBless": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBurningHands": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollCharmPerson": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollColorSpray": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollCommand": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollComprehendLanguages": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollCureWounds": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDetectEvilandGood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDetectMagic": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDetectPoisonAndDisease": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollEntangle": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollExpeditiousRetreat": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFaerieFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFeatherFall": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFogCloud": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGrease": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGuidingBolt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollHideousLaughter": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollIdentify": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollInflictWounds": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollJump": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMageArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMagicMissile": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollProtectionFromEvilandGood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollShield": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollShieldOfFaith": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSleep": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollThunderWave": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollAcidArrow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBarkskin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBlindness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBlur": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDarkness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDarkvision": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFindTraps": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFlameblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFlamingSphere": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollHoldPerson": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollKnock": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollLesserRestoration": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollLevitate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMagicWeapon": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMirrorImage": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMistyStep": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollPassWithoutTrace": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollRayOfEnfeeblement": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollScorchingRay": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSeeInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollShatter": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSilence": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSpiderClimb": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSpiritualWeapon": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollWardingBond": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollConjureAnimals": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollCounterspell": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDaylight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDispelMagic": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFear": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFireball": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFly": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollHaste": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollHypnoticPattern": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollLightningBolt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMassHealingWord": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollProtectionFromEnergy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollRemoveCurse": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollRevivify": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSleetStorm": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSlow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollSpiritGuardians": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollStinkingCloud": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollTongues": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollVampiricTouch": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBanishment": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBlackTentacles": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollBlight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollConfusion": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollConjureMinorElementals": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDeathward": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDimensionDoor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFireShield": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFreedomOfMovement": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGiantInsect": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGreaterInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGuardianOfFaith": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollIceStorm": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollPhantasmalKiller": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollStoneskin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollWallOfFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollCloudKill": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollConeOfCold": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollConjureElemental": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollContagion": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDispelEvilAndGood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollDominatePerson": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollFlameStrike": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollGreaterRestoration": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollHoldMonster": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollInsectPlague": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMassCureWounds": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollMindTwist": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollRaiseDead": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      }
+	},
     "Store_Merchant_Gorim_Ironsoot_Cyflen_GeneralStore": {
-      "EnchantingTool": {},
-      "Greatsword+1": {},
-      "Longsword+1": {},
       "Food_Ration": {
-        "initialAmount": 100,
-        "maxAmount": 100
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "HeavyCrossbow": {},
-      "Maul": {},
-      "Primed Battleaxe": {},
-      "Primed Breastplate": {},
-      "Primed ChainMail": {},
-      "Primed ChainShirt": {},
-      "Primed Dagger": {},
-      "Primed Greataxe": {},
-      "Primed Greatsword": {},
-      "Primed HalfPlate": {},
-      "Primed Leather Armor": {},
-      "Primed Longbow": {},
-      "Primed Mace": {},
-      "Primed Morningstar": {},
-      "Primed Plate": {},
-      "Primed Rapier": {},
-      "Primed ScaleMail": {},
-      "Primed Scimitar": {},
-      "Primed Shortbow": {},
-      "Primed Shortsword": {},
-      "Primed_Longsword": {}
-    },
-    "Store_Merchant_Antiquarians_Halman_Summer": {
-      "PotionOfSpeed": {
-        "factionStatus": "Sympathy"
+      "EverlastingTorch": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "PotionOfHeroism": {
-        "factionStatus": "Sympathy"
-      },
-      "PotionOfFlying": {
-        "factionStatus": "Sympathy"
-      },
-      "PotionOfClimbing": {
-        "factionStatus": "Sympathy"
+	  "Backpack": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Backpack_Handy_Haversack": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "Enchanted_Longsword_Dragonblade": {
-        "factionStatus": "Sympathy"
+      "Backpack_Bag_Of_Holding": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "Enchanted_Longsword_of_Acuteness": {
-        "factionStatus": "Sympathy"
+      "Arrow": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "Enchanted_Longsword_Frostburn": {
-        "factionStatus": "Sympathy"
+      "Bolt": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "Enchanted_Longsword_Stormblade": {
-        "factionStatus": "Sympathy"
+      "FireArrow": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "Enchanted_Longsword_Warden": {
-        "factionStatus": "Sympathy"
+      "Arrow+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Alchemy_Corrosive": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Alchemy_Flaming": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Alchemy_Flash": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_ArivadsKiss": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_ArunsLight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_BasicPoison": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_BrimstoneFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_DarkStab": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_DeepPain": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_GhoulsCaress": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_MaraikesTorpor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_SpiderQueenBlood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_TheBurden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_TheLongNight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Arrow_Poisoned_TigerFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Alchemy_Corrosive": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Alchemy_Flaming": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Alchemy_Flash": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_ArivadsKiss": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_ArunsLight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_BasicPoison": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_BrimstoneFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_DarkStab": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_DeepPain": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_GhoulsCaress": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_MaraikesTorpor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_SpiderQueenBlood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_TheBurden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_TheLongNight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bolt_Poisoned_TigerFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Breastplate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ChainMail": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ChainShirt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakA": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesCommon": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesCommon_Tattoo": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesDefiler": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesNoble": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesSage": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesScavenger_A": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesScavenger_B": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesTabard": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesTabardAlternate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesTabardCouncil": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesWizard": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ClothesWizard_B": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HalfPlate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HideArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Leather": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "PaddedLeather": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Plate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ringmail": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScaleMail": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScaleMailCleric": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shield": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "SplintArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "StuddedLeather": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Breastplate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed ChainMail": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed ChainShirt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed HalfPlate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Leather Armor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Plate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed ScaleMail": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+	  "AdamantinePlateArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Breastplate+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Brightwall": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Chainmail+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Dwarven_Plate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ElvenChain": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_BreastplateOfDeflection": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_BreastplateOfSturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ChainmailOfRobustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ChainmailOfSturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ChainShirt_Empress_war_garb": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_HalfPlateOfRobustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_HalfPlateOfSturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_LeatherArmorOfFlameDancing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_LeatherArmorOfRobustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_LeatherArmorOfSturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_LeatherArmorOfSurvival": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Enchanted_PlateOfRobustness": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Enchanted_PlateOfSturdiness": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ScaleMailOfIceDancing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ScaleMailOfRobustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_ScaleMailOfSturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "GreenmageArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HalfPlate+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HalfPlate+1_Aksha": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "LeatherArmor+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "LeatherArmor+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Plate+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScaleMail+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shield+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shield+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shield+3": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shield_of_Cohh": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "WizardClothes_Alternate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Battleaxe": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Club": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Dagger": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Dart": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Greataxe": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Greatsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Handaxe": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HeavyCrossbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Javelin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "LightCrossbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Mace": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Maul": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Morningstar": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Quarterstaff": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Rapier": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Scimitar": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Spear": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "UnarmedStrikeBase": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Warhammer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Battleaxe": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Dagger": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Greataxe": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Greatsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Longbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Mace": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Morningstar": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Rapier": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Scimitar": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Shortbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed Shortsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Primed_Longsword": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Battleaxe+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Dagger+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Dagger+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "DwarvenThrower": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ElvenThinblade+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Battleaxe_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Battleaxe_Of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Battleaxe_Punisher": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Dagger_Frostburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Dagger_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Dagger_of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Dagger_Souldrinker": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Greataxe_Of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Greataxe_Stormblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Enchanted_Greatsword_Doomblade": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Enchanted_Greatsword_Lightbringer": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
       },
       "Enchanted_Greatsword_of_Acuteness": {
-        "factionStatus": "Sympathy"
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longbow_Lightbringer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longbow_Of_Accurary": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longbow_Stormbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longsword_Dragonblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longsword_Frostburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longsword_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longsword_Stormblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Longsword_Warden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Mace_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Mace_Of_Smashing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Morningstar_Bearclaw": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Morningstar_Of_Power": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Rapier_Blackadder": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Rapier_Doomblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Rapier_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Scimitar_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortbow_Medusa": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortbow_Of_Accuracy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortbow_Of_Sharpshooting": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortsword_Lightbringer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortsword_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortsword_of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Enchanted_Shortsword_Whiteburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Greataxe+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Greataxe+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Greatsword+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Handaxe+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Javelin+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longbow+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longbow+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longsword+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Longsword+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Mace+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Mace+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Morningstar+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Morningstar+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Quarterstaff+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Quarterstaff+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Rapier+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Rapier+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Scimitar+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortbow+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortbow+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortsword+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Shortsword+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Warhammer+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Warhammer+2": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "AmuletOfHealth": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ArcaneShieldstaff": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BeltOfDwarvenKind": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BeltOfGiantFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BeltOfGiantHillStrength": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BeltOfGiantStone": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BootsLevitation": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BootsOfElvenKind": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BootsOfStridingAndSpringing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BootsOfTheWinterland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BootsWinged": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Boots_SixLeagues": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BracersOfSparkles": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bracers_Of_Archery": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Bracers_Of_Defense": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "BroochOfShielding": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ChimeOfOpening": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CircletOfBlasting": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakOfArachnida": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakOfBat": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakOfDisplacement": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakOfElvenkind": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CloakOfProtection": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "DustOfDisappearance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "DwarfBread": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "EarlyBird": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "EfficientQuiver": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "EndlessQuiver": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "GauntletsOfOgrePower": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "GemOfSeeing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "GlovesOfMissileSnaring": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HeadbandOfIntellect": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HelmOfComprehendingLanguages": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HornOfBlasting": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "LoadedDice": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "MantleOfSpellResistance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Manual_Of_Bodily_Health": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Manual_Of_Gainful_Exercise": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Manual_Of_Quickness_of_Action": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "NecklaceOfFireballs": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "OilOfSharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "OneRing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "PeriaptOfHealth": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "PeriaptOfProofAgainstPoison": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingDarkvision": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingDetectInvisible": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingFeatherFalling": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingMightyStrength": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfColdResistance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfFireResistance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfLanguages": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfNecroticResistance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfPoisonResistance": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfTheLightbringers": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingOfTheLordInquisitor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingProtection+1": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "RingRegeneration": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Sigil_Ring_Abjuration": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Sigil_Ring_Necromancy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "SlippersOfSpiderClimbing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "SpoonOfDiscord": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "StaffOfFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "StaffOfHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "StaffOfMetis": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "StoneOfGoodLuck": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Tome_Of_LeadershipAndInfluence": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Tome_Of_QuickThought": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Tome_Of_Understanding": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "WandFear": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "WandMagicMissile": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "WandOfLightningBolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "WandOfMagicDetection": {
+        "initialAmount": 500,
+        "maxAmount": 500
       }
     },
     "Store_Merchant_Hugo_Requer_Cyflen_Potions": {
       "Food_Ration": {
-        "initialAmount": 100,
-        "maxAmount": 100
+        "initialAmount": 500,
+        "maxAmount": 500
       },
-      "CraftingManual_Enchant_BattleAxe_of_Acuteness": {},
-      "CraftingManual_Enchant_BattleAxe_of_Sharpness": {},
-      "CraftingManual_Enchant_BattleAxe_Punisher": {},
-      "CraftingManual_Enchant_Greataxe_Of_Sharpness": {},
-      "CraftingManual_Enchant_Greataxe_Stormblade": {},
-      "CraftingManual_Enchant_Longbow_Lightbringer": {},
-      "CraftingManual_Enchant_Longbow_Of_Accuracy": {},
-      "CraftingManual_Enchant_Longbow_Stormbow": {},
-      "CraftingManual_Enchant_Mace_Of_Acuteness": {},
-      "CraftingManual_Enchant_Mace_Of_Smashing": {},
-      "CraftingManual_Enchant_Morningstar_Bearclaw": {},
-      "CraftingManual_Enchant_Morningstar_Of_Power": {},
-      "CraftingManual_Enchant_Shortbow_Medusa": {},
-      "CraftingManual_Enchant_Shortbow_Of_Accuracy": {},
-      "CraftingManual_Enchant_Shortbow_Of_Sharpshooting": {},
-      "CraftingManual_Enchant_Shortsword_Lightbringer": {},
-      "CraftingManual_Enchant_Shortsword_Of_Acuteness": {},
-      "CraftingManual_Enchant_Shortsword_Of_Sharpness": {},
-      "CraftingManual_Enchant_Shortsword_Whiteburn": {},
-      "Ingredient_Enchant_Blood_Gem": {},
-      "Ingredient_Enchant_Blood_Of_Solasta": {},
-      "Ingredient_Enchant_Cloud_Diamond": {},
-      "Ingredient_Enchant_Crystal_Of_Winter": {},
-      "Ingredient_Enchant_Diamond_Of_Elai": {},
-      "Ingredient_Enchant_Doom_Gem": {},
-      "Ingredient_Enchant_Heartstone": {},
-      "Ingredient_Enchant_LifeStone": {},
-      "Ingredient_Enchant_Medusa_Coral": {},
-      "Ingredient_Enchant_MithralStone": {},
-      "Ingredient_Enchant_Oil_Of_Acuteness": {},
-      "Ingredient_Enchant_PurpleAmber": {},
-      "Ingredient_Enchant_Queen_Venom": {},
-      "Ingredient_Enchant_Shard_Of_Fire": {},
-      "Ingredient_Enchant_Shard_Of_Ice": {},
-      "Ingredient_Enchant_Slavestone": {},
-      "Ingredient_Enchant_Soul_Gem": {},
-      "Ingredient_Enchant_Stardust": {}
+      "10000_Gold_Coins": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ArtisanToolSmithTools": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "EnchantingTool": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "HerbalismKit": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "PoisonersKit": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ScrollKit": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "ThievesTool": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "AlchemistFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "LavaBlast": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_ArivadsKiss": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_ArunsLight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_Basic": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_BrimstoneFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_DarkStab": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_DeepPain": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_Deep_Spider": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_GhoulsCaress": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_MaraikesTorpor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_Spider": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_SpiderQueensBlood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_TheBurden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_TheLongNight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Poison_TigerFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfClimbing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfFlying": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfGiantStrengthCloud": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfGiantStrengthFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfGiantStrengthFrost": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfGiantStrengthHill": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfGreaterHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfHeroism": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfInvulnerability": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfSpeed": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionOfSuperiorHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "PotionRemedy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Potion_Antitoxin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+	  },
+      "Ingredient_AbyssMoss": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Acid": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_AngryViolet": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_BadlandsSpiderVenomGland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_BloodDaffodil": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_BrimstoneViperPoisonGland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_BrimstoneViperScales": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_DeepRootLichen": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_DeepSpiderVenomGland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_DireWolf_Pelt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Dragonrose": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_DwarvenPrimrose": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Emperorseye": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Blood_Gem": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Blood_Of_Solasta": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Cloud_Diamond": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Crystal_Of_Winter": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Diamond_Of_Elai": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Doom_Gem": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Heartstone": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_LifeStone": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Medusa_Coral": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_MithralStone": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Oil_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_PurpleAmber": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Shard_Of_Fire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Shard_Of_Ice": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Slavestone": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Soul_Gem": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_SpiderQueen_Venom": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Enchant_Stardust": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_FireSpiderVenomGland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_GallivanAmaranth": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_GoblinHairFungus": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_LilyOfTheBadlands": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Magnesium": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_ManacalonOrchid": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Moonflower": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_PrimordialLavaStones": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Projectile_Parts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_QueenIvy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_RefinedOil": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Serpentinite": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Skarn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_Sorak_Poison_Spine": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_SpiderQueenVenomGland": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_StormHeather": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_TigerDrakeScales": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_TigerDrake_Fang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_TrollAcanthus": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "Ingredient_WinterWolf_Pelt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "1000_GP_Diamond": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "100_GP_Emerald": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "100_GP_Pearl": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "20_GP_Amethyst": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "300_GP_Opal": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "500_GP_Ruby": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "50_GP_Sapphire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualBasicPoison": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualPotionOfGreaterHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualPotionOfHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualPotionOfHeroism": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualPotionOfSuperiorHealing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualRemedy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Corrosive_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Corrosive_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Flaming_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Flaming_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Flash_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Alchemy_Flash_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_BasicPoison_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_BasicPoison_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_BattleAxe_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_BattleAxe_of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_BattleAxe_Punisher": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Breastplate_Of_Deflection": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Breastplate_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Chainmail_Of_Robustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Chainmail_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Dagger_Frostburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Dagger_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Dagger_Of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Dagger_Souldrinker": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_EmpressGarb": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Greataxe_Of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Greataxe_Stormblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Greatsword_Doomblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Greatsword_Lightbringer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Greatsword_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Halfplate_Of_Robustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Halfplate_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Leather_Armor_Of_FlameDancing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Leather_Armor_Of_Robustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Leather_Armor_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Leather_Armor_Of_Survival": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longbow_Lightbringer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longbow_Of_Accuracy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longbow_Stormbow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longsword_Dragonblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longsword_Frostburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longsword_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longsword_Stormblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Longsword_Warden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Mace_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Mace_Of_Smashing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Morningstar_Bearclaw": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Morningstar_Of_Power": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Plate_Of_Robustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Plate_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Rapier_BlackAdder": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Rapier_Doomblade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Rapier_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Scale_Of_IceDancing": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Scale_Of_Robustness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Scale_Of_Sturdiness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Scimitar_of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortbow_Medusa": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortbow_Of_Accuracy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortbow_Of_Sharpshooting": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortsword_Lightbringer": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortsword_Of_Acuteness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortsword_Of_Sharpness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Enchant_Shortsword_Whiteburn": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArivadsKiss": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArivadsKissArrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArivadsKiss_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArunsLight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArunsLight_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_ArunsLight_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_BrimstoneFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_BrimstoneFang_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_BrimstoneFang_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DarkStab": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DarkStab_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DarkStab_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DeepPain": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DeepPain_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_DeepPain_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_GhoulsCaress": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_GhoulsCaress_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_GhoulsCaress_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_MaraikesTorpor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_MaraikesTorpor_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_MaraikesTorpor_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_SpiderQueensBlood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_SpiderQueensBlood_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_SpiderQueensBlood_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheBurden": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheBurden_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheBurden_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheLongNight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheLongNight_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TheLongNight_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TigerFang": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TigerFang_Arrows": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManual_Poison_TigerFang_Bolts": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBane": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBless": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBurningHands": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfCharmPerson": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfColorSpray": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfCommand": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfComprehendLanguages": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfCureWounds": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDetectEvilAndGood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDetectMagic": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDetectPoisonAndDisease": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfEntangle": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfExpeditiousRetreat": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFaerieFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFogCloud": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfGrease": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfGuidingBolt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfInflictWounds": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfJump": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMageArmor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMagicMissile": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfProtectionFromEvilAndGood": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfShield": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfShieldOfFaith": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSleep": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfThunderwave": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfAcidArrow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBarkskin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBlindness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBlur": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDarkness": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDarkvision": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFindTraps": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFlameBlade": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFlamingSphere": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfHoldPerson": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfKnock": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfLesserRestoration": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfLevitate": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMagicWeapon": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMirrorImage": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMistyStep": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfPassWithoutTrace": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfRayOfEnfeeblement": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfScorchingRay": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSeeInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfShatter": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSilence": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSpiderClimb": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSpiritualWeapon": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfWardingBond": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfConjureAnimals": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfCounterSpell": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDaylight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFear": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFireball": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFly": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfHaste": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfHypnoticPattern": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfLightningBolt": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfMassHealingWord": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfProtectionFromEnergy": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfRemoveCurse": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfRevivify": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSleetStorm": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSlow": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfSpiritGuardians": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfStinkingCloud": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfTongues": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfVampiricTouch": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBanishment": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBlackTentacles": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfBlight": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfConfusion": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfConjureMinorElemental": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDeathWard": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfDimensionDoor": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFireShield": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfFreedomOfMovement": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfGreaterInvisibility": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfGuardianOfFaith": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfIceStorm": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfPhantasmalKiller": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfStoneSkin": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      },
+      "CraftingManualScrollOfWallOfFire": {
+        "initialAmount": 500,
+        "maxAmount": 500
+      }
     }
   }
 }
